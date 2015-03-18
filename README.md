@@ -1,3 +1,6 @@
+# pessoal.inf.ufg.br
+
+[![Build Status](https://travis-ci.org/acfreitas/pessoal.inf.ufg.br.svg)](https://travis-ci.org/acfreitas/pessoal.inf.ufg.br)
 
 O [Jekyll](http://jekyllrb.com) é um gerador de códigos estáticos. A ideia é você criar páginas estáticas, usando HTML, CSS e JavaScript, pronto para serem publicados. Ele é baseado em vários formatos como [Markdown](http://daringfireball.net/projects/markdown/) para formatação de textos e posts, [Liquid](http://liquidmarkup.org/) para templates e [YAML](http://yaml.org/) para exibir e guardar os dados das variáveis. 
 
