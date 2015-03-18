@@ -7,5 +7,12 @@ url: "http://inf.ufg.br/~<nome>/"
 twitter_username: <twitter_username>
 github_username:  <github_username>
 
+exclude:
+  - 'vendor'
+  - 'Gemfile*'
+  - 'README.md'
+  - '*.yml'
+  - 'LICENSE'
+
 # Build settings
 markdown: kramdown
