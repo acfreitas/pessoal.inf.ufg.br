@@ -1,0 +1,11 @@
+# Site settings
+title: <Seu nome>
+email: <sigladocurso><matricula>@inf.ufg.br
+description: <Descrição da página>
+baseurl: ""
+url: "http://inf.ufg.br/~<nome>/" 
+twitter_username: <twitter_username>
+github_username:  <github_username>
+
+# Build settings
+markdown: kramdown
