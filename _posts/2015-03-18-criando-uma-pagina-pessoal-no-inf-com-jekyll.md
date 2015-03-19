@@ -6,6 +6,10 @@ date:   2015-03-18 11:19:26
 
 O [Jekyll](http://jekyllrb.com) é um gerador de códigos estáticos. A ideia é você criar páginas estáticas, usando HTML, CSS e JavaScript, pronto para serem publicados. Ele é baseado em vários formatos como [Markdown](http://daringfireball.net/projects/markdown/) para formatação de textos e posts, [Liquid](http://liquidmarkup.org/) para templates e [YAML](http://yaml.org/) para exibir e guardar os dados das variáveis. 
 
+### Demo 
+
+* [Antônio Carlos](http://inf.ufg.br/~msc20150217/)
+
 ### Dependências
 
 * [Ruby](https://www.ruby-lang.org/)
@@ -36,8 +40,7 @@ Acesse o [Codeship](https://codeship.com/documentation) com sua conta do GitHub 
 
 Seleciona o opção Custom Script. 
 
-```rsync -ravzup  -e "ssh" ~/clone/_site/* <sigadocurso><matricula>@home.inf.ufg.br:/home/alunos/<sigadocurso>/<sigadocurso><matricula>/public_html/
-```
+```rsync -ravzup  -e "ssh" ~/clone/_site/* <sigadocurso><matricula>@home.inf.ufg.br:/home/alunos/<sigadocurso>/<sigadocurso><matricula>/public_html/```
 
 #### General
 
