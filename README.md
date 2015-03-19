@@ -8,7 +8,7 @@ O [Jekyll](http://jekyllrb.com) é um gerador de códigos estáticos. A ideia é
 
 * [Antônio Carlos](http://inf.ufg.br/~msc20150217/)
 
-### Dependências
+### DependênciasCod
 
 * [Ruby](https://www.ruby-lang.org/)
 * [Bundler](http://bundler.io/)
@@ -72,7 +72,7 @@ O Jekyll possui um arquivo _config.yml que guarda as configurações do seu proj
 
 ### Deploy 
 
-Para fazer deploy, basta fazer commit no GitHub que o Travis CI irá publicar o projeto automaticamente. 
+Para fazer deploy, basta fazer commit no GitHub que o Codeship irá publicar o projeto automaticamente. 
 
     $ git add .
     $ git commit -m "Descrição" 
