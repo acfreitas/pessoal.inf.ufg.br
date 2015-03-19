@@ -1,16 +1,16 @@
 # Site settings
-title: <Seu Nome>
-email: <Seu Nome>@inf.ufg.br
-description: <Seu Curso>
-baseurl: "/" 
-url: "" 
-twitter_username:
-github_username:
-lattes_id:
-nome_citacoes: 
-linkedin_username:
-stackoverflow_username: 
-stackoverflow_id: 
+title: Seu Nome
+email: seu_nome@inf.ufg.br
+description: Seu Curso
+baseurl: "" 
+url: "http://localhost:4000" 
+twitter_username: Seu Nome
+github_username: Seu Nome
+lattes_id: Seu Nome
+nome_citacoes: Seu Nome
+linkedin_username: Seu Nome
+stackoverflow_username: Seu Nome
+stackoverflow_id: Seu Nome
 
 exclude:
   - 'vendor'
