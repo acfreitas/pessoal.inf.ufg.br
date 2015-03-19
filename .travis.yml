@@ -1,6 +1,0 @@
-language: ruby
-rvm: 2.0.0
-
-script:
-- bundle exec jekyll build --trace
-# after_success: bundle exec travis-custom-deploy sftp service:jekyll
