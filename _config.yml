@@ -2,8 +2,8 @@
 title: <Seu Nome>
 email: <Seu Nome>@inf.ufg.br
 description: <Seu Curso>
-baseurl: ""
-url: "inf.ufg.br/~<Seu Nome>/" 
+baseurl: "/" 
+url: "" 
 twitter_username:
 github_username:
 lattes_id:
